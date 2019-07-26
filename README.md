@@ -1,3 +1,13 @@
+2 Branches: 1: gh-page and 2: master 
+
+gh-page branch reflects the deployed website hosted on Github
+`npm run deploy`
+
+Master branch will encompass all files in the project and the branch to be turned in for assignments
+`git add .`
+`git commit -m"Blah blah blah"`
+`git push`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
