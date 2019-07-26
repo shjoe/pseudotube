@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pseudotube/static/css/main.2cce8147.chunk.css",
-    "main.js": "/pseudotube/static/js/main.ceb6a6ba.chunk.js",
-    "main.js.map": "/pseudotube/static/js/main.ceb6a6ba.chunk.js.map",
+    "main.js": "/pseudotube/static/js/main.0b2d07a4.chunk.js",
+    "main.js.map": "/pseudotube/static/js/main.0b2d07a4.chunk.js.map",
     "runtime~main.js": "/pseudotube/static/js/runtime~main.dcdc3ff2.js",
     "runtime~main.js.map": "/pseudotube/static/js/runtime~main.dcdc3ff2.js.map",
     "static/js/2.b41502e9.chunk.js": "/pseudotube/static/js/2.b41502e9.chunk.js",
     "static/js/2.b41502e9.chunk.js.map": "/pseudotube/static/js/2.b41502e9.chunk.js.map",
     "index.html": "/pseudotube/index.html",
-    "precache-manifest.6862c2c02441aae7767c59506a6b09ac.js": "/pseudotube/precache-manifest.6862c2c02441aae7767c59506a6b09ac.js",
+    "precache-manifest.365e1f6f7c16941b66db1ec59ab2cb8d.js": "/pseudotube/precache-manifest.365e1f6f7c16941b66db1ec59ab2cb8d.js",
     "service-worker.js": "/pseudotube/service-worker.js",
     "static/css/main.2cce8147.chunk.css.map": "/pseudotube/static/css/main.2cce8147.chunk.css.map",
     "static/media/logo.svg": "/pseudotube/static/media/logo.5d5d9eef.svg"
