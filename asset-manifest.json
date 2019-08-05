@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/pseudotube/static/css/main.2cce8147.chunk.css",
-    "main.js": "/pseudotube/static/js/main.4c863172.chunk.js",
-    "main.js.map": "/pseudotube/static/js/main.4c863172.chunk.js.map",
+    "main.css": "/pseudotube/static/css/main.b08b8016.chunk.css",
+    "main.js": "/pseudotube/static/js/main.e0b5eaa4.chunk.js",
+    "main.js.map": "/pseudotube/static/js/main.e0b5eaa4.chunk.js.map",
     "runtime~main.js": "/pseudotube/static/js/runtime~main.dcdc3ff2.js",
     "runtime~main.js.map": "/pseudotube/static/js/runtime~main.dcdc3ff2.js.map",
-    "static/js/2.b41502e9.chunk.js": "/pseudotube/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/pseudotube/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.fc36bde1.chunk.js": "/pseudotube/static/js/2.fc36bde1.chunk.js",
+    "static/js/2.fc36bde1.chunk.js.map": "/pseudotube/static/js/2.fc36bde1.chunk.js.map",
     "index.html": "/pseudotube/index.html",
-    "precache-manifest.dcdeaee804799287e10a13c4e4eb6941.js": "/pseudotube/precache-manifest.dcdeaee804799287e10a13c4e4eb6941.js",
+    "precache-manifest.b1fcd6a29dfefdc81301ef6303ddc52c.js": "/pseudotube/precache-manifest.b1fcd6a29dfefdc81301ef6303ddc52c.js",
     "service-worker.js": "/pseudotube/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/pseudotube/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/pseudotube/static/media/logo.5d5d9eef.svg"
+    "static/css/main.b08b8016.chunk.css.map": "/pseudotube/static/css/main.b08b8016.chunk.css.map"
   }
 }
