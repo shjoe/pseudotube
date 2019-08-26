@@ -2,7 +2,7 @@ import React from "react";
 
 const VideoDetail = ({ video }) => {
   if (!video) {
-    return <div class="ui active inline loader" />;
+    return <div>Select a video from the below list</div>;
   }
 
   const videoSrc = `https://www.youtube.com/embed/${video.id.videoId}`;
@@ -12,8 +12,8 @@ const VideoDetail = ({ video }) => {
       <div className="ui embed">
         <iframe src={videoSrc} allowFullScreen title="Video player" />
       </div>
-      <div className="ui segment">
-        <h4 className="ui header">{video.snippet.title}</h4>
+      <div>
+        <h4>{video.snippet.title}</h4>
         <p>{video.snippet.description}</p>
       </div>
     </div>

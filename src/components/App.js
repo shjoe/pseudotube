@@ -14,7 +14,7 @@ class App extends React.Component {
       params: {
         q: termFromSearchBar,
         part: "snippet",
-        maxResults: 5,
+        maxResults: 6,
         key: "AIzaSyCM6az2QF3X3hetkfs2vjOMUzZSD4v1h8g"
       }
     });
@@ -30,18 +30,14 @@ class App extends React.Component {
     return (
       <div className="ui container" style={{ marginTop: "1em" }}>
         <SearchBar handleFormSubmit={this.handleSubmit} />
-        <div className="ui grid">
-          <div className="ui row">
-            <div className="eleven wide column">
-              <VideoDetail video={this.state.selectedVideo} />
-            </div>
-            <div className="five wide column">
-              <VideoList
-                handleVideoSelect={this.handleVideoSelect}
-                videos={this.state.videos}
-              />
-            </div>
-          </div>
+        <div>
+          <VideoDetail video={this.state.selectedVideo} />
+        </div>
+        <div>
+          <VideoList
+            handleVideoSelect={this.handleVideoSelect}
+            videos={this.state.videos}
+          />
         </div>
       </div>
     );
