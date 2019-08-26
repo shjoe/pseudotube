@@ -2,7 +2,7 @@ import React from "react";
 
 const VideoDetail = ({ video }) => {
   if (!video) {
-    return <div>Select a video from the below list</div>;
+    return <p class="ui center aligned inverted segment">Select a video from the list below</p>;
   }
 
   const videoSrc = `https://www.youtube.com/embed/${video.id.videoId}`;
