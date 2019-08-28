@@ -1,12 +1,30 @@
+## PseudoTube
+
+A React project/video player using YouTube API to display videos on a SPA.
+Notable features include:
+
+1. User can enter queries to display a list of videos that can be played on the page.
+2. Responsive page made possible by Semantic UI container and grid layout.
+3. Users can toggle dark mode on/off. Data is saved to the local to remember user's choices should they return to the page.
+3. Implementation of Google Analytics & Google Developer Console to monitor user behavior.
+
+## For Deployment
+
 2 Branches: 1: gh-page and 2: master 
 
-gh-page branch reflects the deployed website hosted on Github
+1. gh-page branch reflects the deployed website hosted on Github.
+
+To deploy to Github pages, run the following command:
 `npm run deploy`
 
-Master branch will encompass all files in the project and the branch to be turned in for assignments
+2. Master branch will encompass all files in the project and the branch to be turned in for assignments.
+
+Run the following commands:
 `git add .`
 `git commit -m"Blah blah blah"`
 `git push`
+
+---------------------------------------------------------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -76,3 +94,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+##
