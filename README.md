@@ -1,14 +1,18 @@
 ## PseudoTube
 
-A React project/video player using YouTube API to display videos on a SPA.
+A [React](https://reactjs.org/) project/video player using [YouTube API](https://developers.google.com/youtube/) to display videos on a SPA.
+
 Notable features include:
 
 1. User can enter queries to display a list of videos that can be played on the page.
-2. Responsive page made possible by Semantic UI container and grid layout.
+2. Responsive page made possible by [Semantic UI](https://semantic-ui.com/) container and grid layout.
 3. Users can toggle dark mode on/off. Data is saved to the local to remember user's choices should they return to the page.
 3. Implementation of Google Analytics & Google Developer Console to monitor user behavior.
 
 ## For Deployment
+
+To deploy this project to Github pages, please follow this [guide](https://levelup.gitconnected.com/deploying-a-create-react-app-with-routing-to-github-pages-f386b6ce84c2).
+
 
 2 Branches: 1: gh-page and 2: master 
 
