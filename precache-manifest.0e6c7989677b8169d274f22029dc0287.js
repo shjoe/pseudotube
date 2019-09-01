@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "107faa4870e58a4ccf1abeefa23e831c",
+    "revision": "198c868073d255c6f1f61fc83dd67918",
     "url": "/pseudotube/index.html"
   },
   {
